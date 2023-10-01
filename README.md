@@ -16,7 +16,7 @@ OctoMation支持用户通过可视化图形低代码甚至无代码的方式创�
 
 微信扫码，参与社区微信群聊互动。
 
-![OctoMation编排自动化交流微信群](images/wechat-group-qrcode.pngs)
+![OctoMation编排自动化交流微信群](images/wechat-group-qrcode.png)
 
 ## 提交GitHub Issue
 
