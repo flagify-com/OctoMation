@@ -11,7 +11,7 @@
 - [用户交流](#用户交流)
   - [参与GitHub Discussions互动交流（优先方式）](#参与github-discussions互动交流优先方式)
   - [参与微信群聊](#参与微信群聊)
-  - [提交GitHub Issue](#提交github-issue)
+  - [提交GitHub Issues](#提交github-issues)
 - [其它](#其它)
   - [OctoMation编排自动化社区免费版与企业版的区别](#octomation编排自动化社区免费版与企业版的区别)
   - [备注](#备注)
@@ -75,6 +75,12 @@ OctoMation实战效果：
 
 ## 应用对接
 
+根据雾帜智能HoneyGuide SOAR的基础积累，允许在编排界面调用80个类别，150个厂商的450+产品的1200个动作能力。OctoMation作为编排自动化产品的社区免费版，可以直接活动改能力。目前相关应用APP正在整理中，将陆续投放到社区。
+
+针对尚未完成对接暂不支持调度的外部产品能力，OctoMation提供应用开发工具和开放SDK，允许社区用户根据需要自行开发对接。我们也希望社区成员能够在完成能力对接后，将相关成果贡献到社区，共同丰富和维护产品的外部连接能力。
+
+<img src="images/oa-app-honeyguide.jpg" alt="HoneyGuide SOAR能力对接清单" width="80%" />
+
 
 # 安装部署
 
@@ -92,9 +98,9 @@ OctoMation实战效果：
 
 <img src="images/wechat-group-qrcode.png" alt="OctoMation编排自动化交流微信群" width="200" />
 
-## 提交GitHub Issue
+## 提交GitHub Issues
 
-欢迎通过[GitHub Issue](https://github.com/flagify-com/OctoMation/issues)界面向我们提交Bug、问题。
+欢迎通过[GitHub Issues](https://github.com/flagify-com/OctoMation/issues)界面向我们提交Bug、问题。
 
 
 # 其它
