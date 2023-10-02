@@ -20,7 +20,7 @@
 <p align="center">
   <img src="images/logo-octomation.png" width="120">
 </p>
-<h1 align="center">OctoMation章鱼编排自动化——消灭重复劳动，提升工作效率</h1>
+<h1 align="center">OctoMation——消灭重复劳动，提升工作效率</h1>
 <br>
 
 # OctoMation章鱼编排自动化
