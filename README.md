@@ -120,7 +120,11 @@ OctoMation实战效果：
 
 通过Chrome浏览器访问：https://IP:443
 
+要获取完整的用户手册，请访问[OctoMation Wiki](https://github.com/flagify-com/OctoMation/wiki)。
+
 ## 免费的License申请
+
+社区版免费License申请地址：...
 
 # 用户交流
 
@@ -139,7 +143,6 @@ OctoMation实战效果：
 ## 提交GitHub Issues
 
 欢迎通过[GitHub Issues](https://github.com/flagify-com/OctoMation/issues)界面向我们提交Bug、问题。
-
 
 # 其它
 ## OctoMation编排自动化社区免费版与企业版的区别
