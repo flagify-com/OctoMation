@@ -1,4 +1,4 @@
-- [OctoMation章鱼编排自动化](#octomation章鱼编排自动化)
+- [OctoMation编排自动化](#octomation编排自动化)
 - [产品特性](#产品特性)
 - [应用场景](#应用场景)
   - [网络安全编排自动化与响应](#网络安全编排自动化与响应)
@@ -27,9 +27,9 @@
 <h1 align="center">OctoMation——消灭重复劳动，提升工作效率</h1>
 <br>
 
-# OctoMation章鱼编排自动化
+# OctoMation编排自动化
 
-**OctoMation章鱼编排自动化**（Octopus Orchestration & Automation）是上海雾帜智能科技有限公司HoneyGuide SOAR产品的社区免费版，是中国企业市场领先的编排和自动化（Orchestration & Automation， O&A）产品。
+**OctoMation编排自动化**（Octopus Orchestration & Automation）是上海雾帜智能科技有限公司HoneyGuide SOAR产品的社区免费版，是中国企业市场领先的编排和自动化（Orchestration & Automation， O&A）产品。
 
 OctoMation支持用户通过**可视化、低代码甚至无代码**的方式拖拽生成剧本（Playbook），连接网络设备、安全产品、IT系统和SaaS服务等基础能力，实现各类流程的可视化编排和自动化执行，可用于网络安全编排自动化与响应，运维自动化，IT服务自动化甚至是客服、风控等场景，有无限的想象空间。
 
@@ -38,7 +38,7 @@ OctoMation支持用户通过**可视化、低代码甚至无代码**的方式拖
 # 产品特性
 
 - **响应速度快**
-> 基于O&A（ Orchestration & Automation）技术的OctoMation章鱼编排自动化系统，可帮助用户实现“分钟级甚至秒级的事件响应，几十倍上百倍的效率提升”。
+> 基于O&A（ Orchestration & Automation）技术的OctoMation编排自动化系统，可帮助用户实现“分钟级甚至秒级的事件响应，几十倍上百倍的效率提升”。
 
 - **编排可视化**
 > 支持可视化操作的剧本画布，为用户带来极佳的编排操作体验，内置：动作、规则、审批、轮询、虚拟、收集等可编排的节点，支持按需设置节点颜色，也支持循环、剧本嵌套、函数等高级能力。
