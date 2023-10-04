@@ -17,6 +17,7 @@
   - [参与微信群聊](#参与微信群聊)
   - [提交GitHub Issues](#提交github-issues)
 - [其它](#其它)
+  - [隐私声明](#隐私声明)
   - [社区贡献原则](#社区贡献原则)
   - [OctoMation编排自动化社区免费版与企业版的区别](#octomation编排自动化社区免费版与企业版的区别)
   - [备注](#备注)
@@ -146,6 +147,9 @@ OctoMation实战效果：
 欢迎通过[GitHub Issues](https://github.com/flagify-com/OctoMation/issues)界面向我们提交Bug、问题。
 
 # 其它
+## 隐私声明
+
+请参考：[OctoMation产品隐私声明](PRIVACY.md)
 
 ## 社区贡献原则
 
