@@ -34,7 +34,13 @@
 
 OctoMation支持用户通过**可视化、低代码甚至无代码**的方式拖拽生成剧本（Playbook），连接网络设备、安全产品、IT系统和SaaS服务等基础能力，实现各类流程的可视化编排和自动化执行，可用于网络安全编排自动化与响应，运维自动化，IT服务自动化甚至是客服、风控等场景，有无限的想象空间。
 
+新手速成QuickBook：
+- [🐙我的第一个OctoMation Playbook](https://github.com/flagify-com/OctoMation/wiki/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AAOctoMation-Playbook)
+- [🐙我的第一个OctoMation 事件接入](https://github.com/flagify-com/OctoMation/wiki/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AAOctoMation-%E4%BA%8B%E4%BB%B6%E6%8E%A5%E5%85%A5)
+- [🐙我的第一个OctoMation 应用APP开发](https://github.com/flagify-com/OctoMation/wiki/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AAOctoMation-%E5%BA%94%E7%94%A8APP%E5%BC%80%E5%8F%91)
+
 阅读完整的帮助文档，请移步[OctoMation Wiki](https://github.com/flagify-com/OctoMation/wiki)。
+
 
 # 产品特性
 
