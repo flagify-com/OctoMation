@@ -132,7 +132,11 @@ OctoMation实战效果：
 
 ## 免费的License申请
 
-社区版免费License申请地址：...
+OctoMation是HoneyGuide SOAR的社区免费版，为了规范产品使用，促进社区健康发展，让我们的后续支持更加有针对性，社区免费版需要导入一个免费的授权License。
+
+您可以直接访问[OctoMation社区免费版License申请地址](https://flagify.com/e1598bd6f9a583)，也手机端扫码申请。
+
+<img src="images/get-octomatiion-license.png" alt="申请OctoMation社区免费版License" width="200" />
 
 ## 导入社区剧本和应用（按需）
 
@@ -162,7 +166,7 @@ OctoMation安装成功后，用户可以自己创建应用和剧本，也可以�
 # 其它
 ## 隐私声明
 
-请参考：[OctoMation产品隐私声明](PRIVACY.md)
+我们尊重所有用户的隐私安全需求，遵守社区规范，详情请参考：[OctoMation产品隐私声明](PRIVACY.md)
 
 ## 社区贡献原则
 
