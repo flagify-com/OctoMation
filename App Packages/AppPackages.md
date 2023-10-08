@@ -18,3 +18,4 @@
 IP数据库IPinfo | [IPinfo](https://ipinfo.io) | [API Docs](https://ipinfo.io/developers/data-types#geolocation-data)| [下载](shakespeare-action-python-IPinfo.zip) | [wzfukui](https://github.com/wzfukui)
 微步在线V3     | [微步在线](https://threatbook.com/) | [API Docs](https://x.threatbook.com/v5/apiDocs)| [下载](https://github.com/flagify-com/OctoMation/blob/main/App%20Packages/shakespeare-action-threatbook_v3-1.2.1.zip) | [wzfukui](https://github.com/wzfukui)
 消息通知-钉钉  | [钉钉](https://www.dingtalk.com/) | [API Docs](https://open.dingtalk.com/document/) | [下载](https://github.com/flagify-com/OctoMation/blob/main/App%20Packages/shakespeare-action-dingtalk-1.0.zip) | [wzfukui](https://github.com/wzfukui)
+Kafka客户端   | [Kafka](https://kafka.apachecn.org/) | 无 | [下载](https://github.com/flagify-com/OctoMation/blob/main/App%20Packages/shakespeare-action-kafka-1.0.zip) | [wzfukui](https://github.com/wzfukui)
