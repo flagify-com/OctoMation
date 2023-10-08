@@ -15,7 +15,11 @@
 
 应用名称 | 应用厂商 | 厂商手册| 下载地址 | 贡献人
 ---|---|---|---|---
-IP数据库IPinfo | [IPinfo](https://ipinfo.io) | [API Docs](https://ipinfo.io/developers/data-types#geolocation-data)| [下载](shakespeare-action-python-IPinfo.zip) | [wzfukui](https://github.com/wzfukui)
-微步在线V3     | [微步在线](https://threatbook.com/) | [API Docs](https://x.threatbook.com/v5/apiDocs)| [下载](https://github.com/flagify-com/OctoMation/blob/main/App%20Packages/shakespeare-action-threatbook_v3-1.2.1.zip) | [wzfukui](https://github.com/wzfukui)
-消息通知-钉钉  | [钉钉](https://www.dingtalk.com/) | [API Docs](https://open.dingtalk.com/document/) | [下载](https://github.com/flagify-com/OctoMation/blob/main/App%20Packages/shakespeare-action-dingtalk-1.0.zip) | [wzfukui](https://github.com/wzfukui)
-Kafka客户端   | [Kafka](https://kafka.apachecn.org/) | 无 | [下载](https://github.com/flagify-com/OctoMation/blob/main/App%20Packages/shakespeare-action-kafka-1.0.zip) | [wzfukui](https://github.com/wzfukui)
+IP数据库IPinfo | [IPinfo](https://ipinfo.io) | [API Docs](https://ipinfo.io/developers/data-types#geolocation-data)| [下载](https://github.com/flagify-com/OctoMationApps/releases/download/APP/shakespeare-action-python-IPinfo.zip) | [wzfukui](https://github.com/wzfukui)
+微步在线V3     | [微步在线](https://threatbook.com/) | [API Docs](https://x.threatbook.com/v5/apiDocs)| [下载](https://github.com/flagify-com/OctoMationApps/releases/download/APP/shakespeare-action-threatbook_v3-1.2.1.zip) | [wzfukui](https://github.com/wzfukui)
+消息通知-钉钉  | [钉钉](https://www.dingtalk.com/) | [API Docs](https://open.dingtalk.com/document/) | [下载](https://github.com/flagify-com/OctoMationApps/releases/download/APP/shakespeare-action-dingtalk-1.0.zip) | [wzfukui](https://github.com/wzfukui)
+Kafka客户端   | [Kafka](https://kafka.apachecn.org/) | 无 | [下载](https://github.com/flagify-com/OctoMationApps/releases/download/APP/shakespeare-action-kafka-1.0.zip) | [wzfukui](https://github.com/wzfukui)
+HTTP客户端    | [雾帜智能](https://flagify.com/) | 无 | [下载](https://github.com/flagify-com/OctoMationApps/releases/download/APP/shakespeare-action-python-http_req.zip) | [J0hnFFFF](https://github.com/J0hnFFFF)
+SSH客户端     | [雾帜智能](https://flagify.com/)  | 无 | [下载](https://github.com/flagify-com/OctoMationApps/releases/download/APP/shakespeare-action-python-ssh_req.zip) | [J0hnFFFF](https://github.com/J0hnFFFF)
+RSS客户端     | [雾帜智能](https://flagify.com/)  | 无 | [下载](https://github.com/flagify-com/OctoMationApps/releases/download/APP/shakespeare-action-python-RSS_Feed_Parser.zip) | [wzfukui](https://github.com/wzfukui)
+工具箱        | [雾帜智能](https://flagify.com/)  | 无 | [下载](https://github.com/flagify-com/OctoMationApps/releases/download/APP/shakespeare-action-python-tools.zip) | [J0hnFFFF](https://github.com/J0hnFFFF)
