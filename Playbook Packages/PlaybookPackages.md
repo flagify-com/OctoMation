@@ -13,4 +13,4 @@
 剧本名称 | 用途说明 | 贡献人 | 下载地址 
 ---|---|---|---|
 IP地址信息增强  | 通过多渠道查询IP地址地理信息。 | [J0hnFFFF](https://github.com/J0hnFFFF) | [Playbook_IP_Enrich.conf](Playbook_IP_Enrich.conf)
-RSS新闻收集器   | 通过RSS搜集最新信息。         | [J0hnFFFF](https://github.com/J0hnFFFF) | [Uploading RSS新闻收集器.conf…]()
+RSS新闻收集器   | 通过RSS搜集最新信息。         | [J0hnFFFF](https://github.com/J0hnFFFF) | 
