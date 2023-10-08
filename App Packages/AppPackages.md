@@ -26,3 +26,5 @@ RSS客户端     | [雾帜智能](https://flagify.com/)  | 无 | [下载](https:
 Scamalytics威胁情报        | [Scamalytics](https://scamalytics.com/)  | 无 | [下载](https://github.com/flagify-com/OctoMationApps/releases/download/APP/shakespeare-action-python-Scamalytics.zip) | [J0hnFFFF](https://github.com/J0hnFFFF)
 X军刀 | [雾帜智能](https://flagify.com/)  | 无 | [下载](https://github.com/flagify-com/OctoMationApps/releases/download/APP/shakespeare-action-python-xKnife.zip) | [wzfukui](https://github.com/wzfukui)
 AppDemo | [雾帜智能](https://flagify.com/)  | 无 | [下载](https://github.com/flagify-com/OctoMationApps/releases/download/APP/shakespeare-action-python-app_demo.zip) | [wzygm](https://github.com/wzygm)
+VirusTotal 威胁情报 | [virustotal](https://www.virustotal.com/)  | 无 | [下载](https://github.com/flagify-com/OctoMationApps/releases/download/APP/shakespeare-action-virustotal-1.2.1.zip) | [wzygm](https://github.com/wzygm)
+
