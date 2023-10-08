@@ -23,3 +23,4 @@ HTTP客户端    | [雾帜智能](https://flagify.com/) | 无 | [下载](https:/
 SSH客户端     | [雾帜智能](https://flagify.com/)  | 无 | [下载](https://github.com/flagify-com/OctoMationApps/releases/download/APP/shakespeare-action-python-ssh_req.zip) | [J0hnFFFF](https://github.com/J0hnFFFF)
 RSS客户端     | [雾帜智能](https://flagify.com/)  | 无 | [下载](https://github.com/flagify-com/OctoMationApps/releases/download/APP/shakespeare-action-python-RSS_Feed_Parser.zip) | [wzfukui](https://github.com/wzfukui)
 工具箱        | [雾帜智能](https://flagify.com/)  | 无 | [下载](https://github.com/flagify-com/OctoMationApps/releases/download/APP/shakespeare-action-python-tools.zip) | [J0hnFFFF](https://github.com/J0hnFFFF)
+Scamalytics威胁情报        | [Scamalytics](https://scamalytics.com/)  | 无 | [下载](https://github.com/flagify-com/OctoMationApps/releases/download/APP/shakespeare-action-python-Scamalytics.zip) | [J0hnFFFF](https://github.com/J0hnFFFF)
