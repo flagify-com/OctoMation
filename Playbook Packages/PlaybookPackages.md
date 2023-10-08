@@ -14,3 +14,4 @@
 ---|---|---|---|
 IP地址信息增强  | 通过多渠道查询IP地址地理信息。 | [J0hnFFFF](https://github.com/J0hnFFFF) | [Playbook_IP_Enrich.conf](Playbook_IP_Enrich.conf)
 RSS新闻收集器   | 通过RSS搜集最新信息。         | [J0hnFFFF](https://github.com/J0hnFFFF) | [RSS新闻收集器](https://github.com/flagify-com/OctoMation/blob/main/Playbook%20Packages/RSS%E6%96%B0%E9%97%BB%E6%94%B6%E9%9B%86%E5%99%A8.conf)
+网页安全监测    | 检查网站关键字是否存在违规，检测网页是否存在大规模变动。| [J0hnFFFF](https://github.com/J0hnFFFF) | 
