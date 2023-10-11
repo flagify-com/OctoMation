@@ -102,7 +102,7 @@ OctoMation实战效果：
 # 技术知识
 ## 架构图
 
-- OctoMation支持通过Kafka、Syslog、API等方式接收上游的信息输入，根据与编排的剧本，开展自动化的流程执行。
+- OctoMation支持通过Kafka、Syslog等方式接收上游的信息输入，根据与编排的剧本，开展自动化的流程执行。
 - OctoMation支持通过HTTP/HTTPS、SSH、Telnet、Restful API等方式联动调度下游基础产品能力。
 
 <img src="images/OctoMation-Design-Overview.png" alt="OctoMation编排自动化交流微信群" width="80%" />
