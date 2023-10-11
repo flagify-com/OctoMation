@@ -151,11 +151,11 @@ sudo bash install.sh
 
 OctoMation是HoneyGuide SOAR的社区免费版，为了规范产品使用，促进社区健康发展，让我们的后续支持更加有针对性，社区免费版需要导入一个免费的授权License。
 
-您可以直接访问[OctoMation社区免费版License申请地址](https://flagify.com/e1598bd6f9a583)，也手机端扫码申请。
+您可以直接访问[OctoMation社区免费版License申请地址](https://flagify.com/e1598bd6f9a583)，也可以手机端扫码申请。
 
-<img src="images/get-octomatiion-license.png" alt="申请OctoMation社区免费版License" width="200" />
+<img src="images/get-octomatiion-license.png" alt="申请OctoMation社区免费版License" width="100" />
 
-难道免费激活的授权文件后，登录系统进行授权导入。
+成果获取免费激活的授权文件后，登录系统导入授权文件。
 
 ## 导入社区剧本和应用（按需）
 
