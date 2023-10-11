@@ -155,7 +155,7 @@ OctoMation是HoneyGuide SOAR的社区免费版，为了规范产品使用，促�
 
 <img src="images/get-octomatiion-license.png" alt="申请OctoMation社区免费版License" width="100" />
 
-成果获取免费激活的授权文件后，登录系统导入授权文件。
+成功获取免费激活的授权文件后，登录系统导入授权文件。
 
 ## 导入社区剧本和应用（按需）
 
