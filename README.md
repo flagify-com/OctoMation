@@ -9,9 +9,9 @@
   - [应用对接](#应用对接)
 - [安装部署](#安装部署)
   - [环境要求](#环境要求)
-  - [下载和安装](#下载和安装)
+  - [快速安装](#快速安装)
   - [系统访问](#系统访问)
-  - [免费的License申请](#免费的license申请)
+  - [免费激活](#免费激活)
   - [导入社区剧本和应用（按需）](#导入社区剧本和应用按需)
 - [用户交流](#用户交流)
   - [参与GitHub Discussions互动交流（优先方式）](#参与github-discussions互动交流优先方式)
@@ -124,7 +124,7 @@ OctoMation实战效果：
 
 关于系统要求，软件依赖和具体安装说明，**请参考WIKI文档**：[OctoMation安装部署手册](https://github.com/flagify-com/OctoMation/wiki/OctoMation%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2%E6%89%8B%E5%86%8C)。
 
-## 下载和安装
+## 快速安装
 
 下载OctoMation安装文件：`install.sh`到服务器，执行以下命令进行安装：
 
@@ -137,7 +137,7 @@ sudo bash install.sh
 wget https://ghproxy.com/https://github.com/flagify-com/OctoMation/install.sh && \
 sudo bash install.sh
 ```
-> 安装过程比较长，你可以先去[申请免费License](#免费的license申请)
+> 安装过程比较长，你可以先去[申请免费License](#免费激活)用于授权激活。
 
 ## 系统访问
 
@@ -147,13 +147,15 @@ sudo bash install.sh
 
 登录账号：`admin/octomation`
 
-## 免费的License申请
+## 免费激活
 
 OctoMation是HoneyGuide SOAR的社区免费版，为了规范产品使用，促进社区健康发展，让我们的后续支持更加有针对性，社区免费版需要导入一个免费的授权License。
 
 您可以直接访问[OctoMation社区免费版License申请地址](https://flagify.com/e1598bd6f9a583)，也手机端扫码申请。
 
 <img src="images/get-octomatiion-license.png" alt="申请OctoMation社区免费版License" width="200" />
+
+难道免费激活的授权文件后，登录系统进行授权导入。
 
 ## 导入社区剧本和应用（按需）
 
