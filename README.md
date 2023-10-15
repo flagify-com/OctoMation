@@ -8,9 +8,7 @@
   - [架构图](#架构图)
   - [应用对接](#应用对接)
 - [安装部署](#安装部署)
-  - [环境要求](#环境要求)
   - [快速安装](#快速安装)
-  - [系统访问](#系统访问)
   - [免费激活](#免费激活)
   - [导入社区剧本和应用（按需）](#导入社区剧本和应用按需)
 - [用户交流](#用户交流)
@@ -120,32 +118,9 @@ OctoMation实战效果：
 
 # 安装部署
 
-## 环境要求
-
-关于系统要求，软件依赖和具体安装说明，**请参考WIKI文档**：[OctoMation安装部署手册](https://github.com/flagify-com/OctoMation/wiki/OctoMation%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2%E6%89%8B%E5%86%8C)。
-
 ## 快速安装
 
-下载OctoMation安装文件：`install.sh`到服务器，执行以下命令进行安装：
-
-```bash
-# 默认安装
-wget https://github.com/flagify-com/OctoMation/install.sh && \
-sudo bash install.sh
-
-# 网络加速版
-wget https://ghproxy.com/https://github.com/flagify-com/OctoMation/install.sh && \
-sudo bash install.sh
-```
-> 安装过程比较长，你可以先去[申请免费License](#免费激活)用于授权激活。
-
-## 系统访问
-
-通过Chrome浏览器访问：`https://<OatoMation_SERVER_IP>:443`
-
-要获取完整的产品使用指导手册，请访问[OctoMation Wiki](https://github.com/flagify-com/OctoMation/wiki)。
-
-登录账号：`admin/octomation`
+关于系统要求，软件依赖和具体安装说明，**请参考WIKI文档**：[OctoMation安装部署手册](https://github.com/flagify-com/OctoMation/wiki/OctoMation%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2%E6%89%8B%E5%86%8C)。
 
 ## 免费激活
 
@@ -163,6 +138,7 @@ OctoMation安装成功后，用户可以自己创建应用和剧本，也可以�
 
 - ⏬[应用能力APP包](./App%20Packages/AppPackages.md)
 - ⏬[场景剧本Playbook包](./Playbook%20Packages/PlaybookPackages.md)
+
 
 # 用户交流
 
