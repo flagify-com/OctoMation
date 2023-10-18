@@ -63,7 +63,7 @@ OctoMation支持用户通过**可视化、低代码甚至无代码**的方式拖
 
 <details>
 
- <summary>OctoMation剧本编排应用场景（展开查看详情）</summary>
+ <summary> OctoMation剧本编排应用场景（展开查看详情） </summary>
 
 ## 网络安全：安全事件应急响应
 
@@ -101,6 +101,8 @@ OctoMation实战效果：
 - 绝大多数场景无需人工干预，只有在审计发现风险时才会人工干预
 - 入离职高峰期大幅降低审计人员的工作压力（这类工作因为敏感性，通常不适合委托）
 
+> 更多场景，等你来发挥！
+
 </details>
 
 # 技术知识
@@ -120,7 +122,7 @@ OctoMation实战效果：
 
 <img src="images/oa-app-honeyguide.jpg" alt="HoneyGuide SOAR能力对接清单" width="80%" />
 
-> 更多场景，等你来发挥！
+> 更多应用，等你来发挥！[OctoMationApps](https://github.com/flagify-com/OctoMationApps)
 
 # 安装部署
 
@@ -157,6 +159,7 @@ OctoMation安装成功后，用户可以自己创建应用和剧本，也可以�
 ## 参与微信群聊
 
 微信扫码（10天更新一次），参与社区微信群聊互动。
+
 
 <img src="images/wechat-group-qrcode.png" alt="OctoMation编排自动化交流微信群" width="200" />
 
