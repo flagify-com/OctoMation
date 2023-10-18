@@ -140,6 +140,8 @@ OctoMation是HoneyGuide SOAR的社区免费版，为了规范产品使用，促�
 
 成功获取免费激活的授权文件后，登录系统导入授权文件。
 
+> 建议提前将License发送邮箱[octomation_support@wuzhi-ai.com](mailto://octomation_support@wuzhi-ai.com)加入邮件服务器白名单。
+
 ## 导入社区剧本和应用（按需）
 
 OctoMation安装成功后，用户可以自己创建应用和剧本，也可以导入社区免费版提供的各类应用和剧本，详细请参考：
