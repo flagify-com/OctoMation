@@ -160,8 +160,7 @@ OctoMation安装成功后，用户可以自己创建应用和剧本，也可以�
 
 微信扫码（10天更新一次），参与社区微信群聊互动。
 
-
-<img src="images/wechat-group-qrcode.png" alt="OctoMation编排自动化交流微信群" width="200" />
+<img src="images/wechat-group-qrcode.png" alt="OctoMation编排自动化交流微信群" width="100" />
 
 如果扫码失败，请加小助手微信，备注：OctoMation，拉你进群。
 
